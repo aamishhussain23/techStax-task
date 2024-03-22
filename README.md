@@ -15,7 +15,7 @@ Instructions for installing the project.
 To get started with this project, follow these steps:
 
 Clone the repository: `git clone https://github.com/aamishhussain23/techStax-task.git`
-Navigate to Project Directory `cd WorkFlow-Designer`
+Navigate to Project Directory `cd techStax-task`
 Install the dependencies: `npm install`
 
 
